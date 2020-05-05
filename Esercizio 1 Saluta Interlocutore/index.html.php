@@ -13,8 +13,7 @@
 
     <h1>Ciao
       <?php
-      echo $nome;
-      echo ' '.$cognome;
+      echo $nome.' '.$cognome;
       ?>
     </h1>
   </body>
